@@ -16,7 +16,7 @@ int main(void)
     
     printf("変数num1の値は%dです。\n", num1);
     printf("変数num2の値は%dです。\n", num2);
-    printf("変数num1とnum2の値を好感します。\n");
+    printf("変数num1とnum2の値を交換します。\n");
 
     swap(&num1, &num2);
 
